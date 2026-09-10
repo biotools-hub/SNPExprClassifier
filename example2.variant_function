@@ -1,0 +1,19 @@
+upstream	gene1	NC_052545.1	10345	10345	A	G	hom	.
+upstream	gene2	NC_052560.1	10567	10567	T	C	het	.
+downstream	gene3	NC_052572.1	11098	11098	C	T	unknown	.
+downstream	gene4	NC_052534.1	11220	11220	G	A	hom	.
+upstream;downstream	gene5	NC_052538.1	12015	12015	A	T	het	.
+upstream;downstream	gene6	NC_052569.1	12150	12150	C	G	unknown	.
+intronic	gene7	NC_052548.1	13030	13030	G	C	hom	.
+intronic	gene8	NC_052567.1	13200	13200	T	A	het	.
+exonic	gene9	NC_052555.1	14045	14045	A	C	unknown	.
+exonic	gene10	NC_052561.1	14185	14185	C	T	hom	.
+ncRNA_exonic	gene11	NC_052540.1	15060	15060	T	G	het	.
+ncRNA_exonic	gene12	NC_052551.1	15200	15200	A	C	unknown	.
+ncRNA_intronic	gene13	NC_052562.1	16050	16050	C	T	hom	.
+ncRNA_intronic	gene14	NC_052570.1	16210	16210	G	A	het	.
+ncRNA_splicing	gene15	NC_052544.1	17075	17075	T	C	unknown	.
+ncRNA_splicing	gene16	NC_052548.1	17220	17220	A	G	hom	.
+ncRNA_exonic;splicing	gene17	NC_052566.1	18030	18030	C	T	het	.
+ncRNA_exonic;splicing	gene18	NC_052535.1	18150	18150	G	A	unknown	.
+

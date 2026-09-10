@@ -1,0 +1,3 @@
+export(snp_partition_tool)
+export(fpkm_gene_classification)
+export(map_genes_to_snp_positions)

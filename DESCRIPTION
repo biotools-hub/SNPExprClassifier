@@ -1,0 +1,11 @@
+Package: SNPExprClassifier
+Title: Classify Genes and SNPs by Expression and Annotation
+Version: 0.1.0
+Authors@R: person("Chaoliang Wen", email = "clwen@cau.edu.cn", role = c("aut", "cre"))
+Description: Tools for classifying genes based on FPKM expression, partitioning SNPs by annotation, and mapping gene lists to chromosomal positions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends: R (>= 4.0.0)
+Suggests: data.table, optparse
